@@ -1,13 +1,13 @@
 ## Troubleshooting Community Analysis Extension (Easy Analysis Extension)
 #### Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
 
-### **How to upgrade the CA extension**
+- **How to upgrade the CA extension**
 
     - For IE, the BHO will always use the latest user script
     - For other browsers, Chrome as example, please *trigger update* in **Tampermonkey**
     ![alt text][tampermonkey-update]
 
-### **CA iframe page always need to sign in (repeatedly login)**
+- **CA iframe page always need to sign in (repeatedly login)**
 
     Basically this is caused by browser cache
     - **IE**
@@ -26,7 +26,7 @@
 
         Close all Chrome windows and restart Chrome
 
-### **I cannot use the CA extension in IE InPrivate mode**
+- **I cannot use the CA extension in IE InPrivate mode**
 
     - Open IE.
     - Click on Tools > Internet Options > Privacy tab
