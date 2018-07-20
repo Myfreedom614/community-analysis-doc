@@ -1,5 +1,6 @@
-## Troubleshooting Community Analysis Extension (Easy Analysis Extension)
-#### Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
+# Troubleshooting Community Analysis Extension
+
+## Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
 
 - **How to upgrade the CA extension**
 

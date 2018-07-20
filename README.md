@@ -5,6 +5,4 @@ Document for Community Analysis
 
 ## [Troubleshooting CA extension](doc/troubleshooting-easy-analysis-extension.md)
 
-## [How To Tag a Question](doc/how-to-tag-a-question.md)
-
-
+## [CA Extension Iframe Introduction](doc/ca-iframe-intro.md)

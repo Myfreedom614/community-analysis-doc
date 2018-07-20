@@ -1,5 +1,6 @@
-## Community Analysis Extension(Easy Analysis Extension)
-#### Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
+# Community Analysis Extension
+
+## Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
 
 - Install Script Extension for your Web Browser
   - **For IE**, download IEExtension.zip in <a href="../exe/IEExtension.zip" rel="nofollow">here</a>, unzip the file, run “run-install.cmd” as Administrator</li>
