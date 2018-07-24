@@ -8,7 +8,7 @@
     1. Install Extension
         - For Firefox: Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)</li>
         - For Chrome: Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-        - For Opera: Install [Violentmonkey](https://addons.opera.com/en/extensions/details/violent-monkey/)
+        - For Opera: Install [Violentmonkey](https://github.com/OpenUserJS/OpenUserJS.org/wiki/Violentmonkey-for-Opera)
         - For Safari: Install [NinjaKit](https://web.archive.org/web/20161002045855/http://ss-o.net/safari/extension/NinjaKit.safariextz)
     2. Open [Greasy Fork link](https://greasyfork.org/en/scripts/14666-easy-analysis-extension), Click "Install this script" button on the page, follow the guidance to complete the installation in the Scipt Extension
 
